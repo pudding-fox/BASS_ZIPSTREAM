@@ -1,0 +1,26 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  CRC.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Archive.cpp
+C:\personal\BASS_ZIPSTREAM\bass_zipstream\Archive.cpp(144,3): warning C4838: conversion from 'int' to 'const UInt32' requires a narrowing conversion
+  ArchiveEntry.cpp
+  ArchiveEntryInterface.cpp
+  ArchiveExtractCallback.cpp
+  ArchiveExtractPrompt.cpp
+  ArchiveInterface.cpp
+  bass_zipstream.cpp
+  ArchiveExtractTask.cpp
+  CFile.cpp
+  CFileStream.cpp
+  Codecs.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Config.cpp
+  ErrorInterface.cpp
+     Creating library ../lib/x86\bass_zipstream.lib and object ../lib/x86\bass_zipstream.exp
+Archive.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned int)" (??3@YAXPAXI@Z)
+Archive.obj : error LNK2001: unresolved external symbol ___std_terminate
+lib7z.lib(Bcj2Coder.obj) : error LNK2001: unresolved external symbol "void __stdcall `eh vector destructor iterator'(void *,unsigned int,unsigned int,void (__thiscall*)(void *))" (??_M@YGXPAXIIP6EX0@Z@Z)
+lib7z.lib(Bcj2Coder.obj) : error LNK2001: unresolved external symbol "void __stdcall `eh vector constructor iterator'(void *,unsigned int,unsigned int,void (__thiscall*)(void *),void (__thiscall*)(void *))" (??_L@YGXPAXIIP6EX0@Z1@Z)
+lib7z.lib(MethodProps.obj) : error LNK2001: unresolved external symbol "void __cdecl operator delete[](void *,unsigned int)" (??_V@YAXPAXI@Z)
+..\lib\x86\bass_zipstream.dll : fatal error LNK1120: 5 unresolved externals

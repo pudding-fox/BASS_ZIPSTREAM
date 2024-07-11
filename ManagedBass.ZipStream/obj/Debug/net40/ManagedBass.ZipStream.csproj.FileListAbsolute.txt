@@ -1,0 +1,10 @@
+C:\personal\BASS_ZIPSTREAM\distribution\net40\x86\bass_zipstream.dll
+C:\personal\BASS_ZIPSTREAM\distribution\net40\x64\bass_zipstream.dll
+C:\personal\BASS_ZIPSTREAM\ManagedBass.ZipStream\obj\Debug\net40\ManagedBass.ZipStream.csproj.AssemblyReference.cache
+C:\personal\BASS_ZIPSTREAM\ManagedBass.ZipStream\obj\Debug\net40\ManagedBass.ZipStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal\BASS_ZIPSTREAM\ManagedBass.ZipStream\obj\Debug\net40\ManagedBass.ZipStream.AssemblyInfoInputs.cache
+C:\personal\BASS_ZIPSTREAM\ManagedBass.ZipStream\obj\Debug\net40\ManagedBass.ZipStream.AssemblyInfo.cs
+C:\personal\BASS_ZIPSTREAM\ManagedBass.ZipStream\obj\Debug\net40\ManagedBass.ZipStream.csproj.CoreCompileInputs.cache
+C:\personal\BASS_ZIPSTREAM\ManagedBass.ZipStream\obj\Debug\net40\ManagedBass.ZipStream.csproj.CopyComplete
+C:\personal\BASS_ZIPSTREAM\ManagedBass.ZipStream\obj\Debug\net40\ManagedBass.ZipStream.dll
+C:\personal\BASS_ZIPSTREAM\ManagedBass.ZipStream\obj\Debug\net40\ManagedBass.ZipStream.pdb

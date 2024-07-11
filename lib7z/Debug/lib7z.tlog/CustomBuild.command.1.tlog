@@ -1,0 +1,2 @@
+^C:\PERSONAL\BASS_ZIPSTREAM\7Z\ASM\X86\7ZCRCOPT.ASM
+ml.exe /c /Zi /Fo"Debug\\7zCrcOpt.obj" "C:\personal\BASS_ZIPSTREAM\7z\Asm\x86\7zCrcOpt.asm"

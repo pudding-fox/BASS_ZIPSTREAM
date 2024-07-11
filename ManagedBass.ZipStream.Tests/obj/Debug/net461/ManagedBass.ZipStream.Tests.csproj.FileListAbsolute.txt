@@ -1,0 +1,5 @@
+C:\personal\BASS_ZIPSTREAM\ManagedBass.ZipStream.Tests\obj\Debug\net461\ManagedBass.ZipStream.Tests.csproj.AssemblyReference.cache
+C:\personal\BASS_ZIPSTREAM\ManagedBass.ZipStream.Tests\obj\Debug\net461\ManagedBass.ZipStream.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal\BASS_ZIPSTREAM\ManagedBass.ZipStream.Tests\obj\Debug\net461\ManagedBass.ZipStream.Tests.AssemblyInfoInputs.cache
+C:\personal\BASS_ZIPSTREAM\ManagedBass.ZipStream.Tests\obj\Debug\net461\ManagedBass.ZipStream.Tests.AssemblyInfo.cs
+C:\personal\BASS_ZIPSTREAM\ManagedBass.ZipStream.Tests\obj\Debug\net461\ManagedBass.ZipStream.Tests.csproj.CoreCompileInputs.cache

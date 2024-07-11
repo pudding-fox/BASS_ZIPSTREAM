@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="..\Common.props" />
+  </ImportGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <ProjectGuid>{493c50d9-8615-4fe9-9dc1-39657cf743a0}</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <PreprocessorDefinitions>_USRDLL;INITGUID;EXTRACT_ONLY;BASS_ZIPSTREAM_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <ModuleDefinitionFile>bass_zipstream.def</ModuleDefinitionFile>
+      <IgnoreAllDefaultLibraries>true</IgnoreAllDefaultLibraries>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\7z\CPP\Common\CRC.cpp" />
+    <ClCompile Include="Archive.cpp" />
+    <ClCompile Include="ArchiveEntry.cpp" />
+    <ClCompile Include="ArchiveEntryInterface.cpp" />
+    <ClCompile Include="ArchiveExtractCallback.cpp" />
+    <ClCompile Include="ArchiveExtractPrompt.cpp" />
+    <ClCompile Include="ArchiveInterface.cpp" />
+    <ClCompile Include="bass_zipstream.cpp" />
+    <ClCompile Include="ArchiveExtractTask.cpp" />
+    <ClCompile Include="CFile.cpp" />
+    <ClCompile Include="CFileStream.cpp" />
+    <ClCompile Include="Codecs.cpp" />
+    <ClCompile Include="Config.cpp" />
+    <ClCompile Include="ErrorInterface.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\bass\bass.h" />
+    <ClInclude Include="..\bass\bass_addon.h" />
+    <ClInclude Include="Archive.h" />
+    <ClInclude Include="ArchiveEntry.h" />
+    <ClInclude Include="ArchiveEntryInterface.h" />
+    <ClInclude Include="ArchiveExtractCallback.h" />
+    <ClInclude Include="ArchiveExtractPrompt.h" />
+    <ClInclude Include="ArchiveInterface.h" />
+    <ClInclude Include="bass_zipstream.h" />
+    <ClInclude Include="CFile.h" />
+    <ClInclude Include="CFileStream.h" />
+    <ClInclude Include="Codecs.h" />
+    <ClInclude Include="Common.h" />
+    <ClInclude Include="ArchiveExtractTask.h" />
+    <ClInclude Include="Config.h" />
+    <ClInclude Include="ErrorInterface.h" />
+    <ClInclude Include="IClosable.h" />
+    <ClInclude Include="Interfaces.h" />
+    <ClInclude Include="IOUtils.h" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(Platform)'=='Win32'">
+    <Library Include="..\lib\x86\bass.lib" />
+    <Library Include="..\lib\x86\lib7z.lib" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(Platform)'=='x64'">
+    <Library Include="..\lib\x64\bass.lib" />
+    <Library Include="..\lib\x64\lib7z.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bass_zipstream.def" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+</Project>

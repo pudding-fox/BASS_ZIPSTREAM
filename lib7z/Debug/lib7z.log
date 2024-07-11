@@ -1,0 +1,330 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1118,5): warning MSB8027: Two or more files with the name of StdAfx.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\7z\CPP\7zip\Archive\7z\StdAfx.cpp, ..\7z\CPP\7zip\Archive\Rar\StdAfx.cpp.
+cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  7zDecode.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  7zExtract.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  7zFolderInStream.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  7zHandler.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  7zHeader.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  7zIn.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  7zProperties.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  7zSpecStream.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  StdAfx.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  CoderMixer2.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  FindSignature.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  HandlerCont.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  IsoHandler.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  IsoHeader.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  IsoIn.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Rar5Handler.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  RarHandler.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  StdAfx.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  TarHandler.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  TarHeader.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Generating Code...
+  Compiling...
+  TarIn.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  FilePathAutoRename.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  InOutTempBuffer.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  StreamBinder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  VirtThread.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Bcj2Coder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Bcj2Register.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  BcjCoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  BcjRegister.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  BranchRegister.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  BZip2Crc.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  BZip2Decoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  BZip2Encoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  BZip2Register.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  CopyRegister.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Deflate64Register.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  DeflateDecoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  DeflateEncoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  DeflateRegister.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Lzma2Register.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Generating Code...
+  Compiling...
+  LzmaRegister.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  PpmdRegister.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Rar1Decoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Rar2Decoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Rar3Decoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Rar3Vm.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Rar5Decoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  RarCodecsRegister.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Rar20Crypto.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Rar5Aes.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  RarAes.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  DefaultName.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  ExtractingFilePath.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  OpenArchive.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  PropIDUtils.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  SetProperties.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Wildcard.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  ErrorMsg.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  FileDir.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  FileFind.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Generating Code...
+  Compiling...
+  FileLink.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  FileName.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  PropVariantConv.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  HandlerOut.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  InStreamWithCRC.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  ItemNameUtils.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  OutStreamWithCRC.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  ZipHandler.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  ZipIn.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  ZipItem.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  CreateCoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  CWrappers.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  FileStreams.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  FilterCoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  InBuffer.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  LimitedStreams.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  LockedStream.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  MemBlocks.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  MethodProps.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  OffsetStream.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Generating Code...
+  Compiling...
+  OutBuffer.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  OutMemStream.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  ProgressMt.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  ProgressUtils.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  PropId.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  StreamObjects.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  StreamUtils.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  BitlDecoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  CopyCoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  ImplodeDecoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Lzma2Decoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Lzma2Encoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  LzmaDecoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  LzmaEncoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  LzOutWindow.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  PpmdDecoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  PpmdEncoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  PpmdZip.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  ShrinkDecoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  XzDecoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Generating Code...
+  Compiling...
+  XzEncoder.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  HmacSha1.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  HmacSha256.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  MyAes.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Pbkdf2HmacSha1.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  RandGen.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  WzAes.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  ZipCrypto.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  ZipStrong.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  LoadCodecs.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  IntToString.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  MyString.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  MyVector.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  MyWindows.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  StringConvert.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  StringToInt.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  UTFConvert.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  FileIO.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  PropVariant.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  PropVariantUtils.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Generating Code...
+  Compiling...
+  Synchronization.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  System.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  TimeUtils.cpp
+C:\personal\BASS_ZIPSTREAM\crt\new(74,21): warning C4595: 'operator delete': non-member operator new or delete functions may not be declared inline
+  Generating Code...
+cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  7zAlloc.c
+  7zArcIn.c
+  7zBuf.c
+  7zBuf2.c
+  7zCrc.c
+  7zCrcOpt.c
+  7zDec.c
+  7zFile.c
+  7zStream.c
+  Aes.c
+  AesOpt.c
+  Alloc.c
+  Bcj2.c
+  Bcj2Enc.c
+  Blake2s.c
+  Bra.c
+  Bra86.c
+  BraIA64.c
+  BwtSort.c
+  CpuArch.c
+  Generating Code...
+  Compiling...
+  Delta.c
+  DllSecur.c
+  HuffEnc.c
+  LzFind.c
+  LzFindMt.c
+  Lzma2Dec.c
+  Lzma2DecMt.c
+  Lzma2Enc.c
+  Lzma86Dec.c
+  Lzma86Enc.c
+  LzmaDec.c
+  LzmaEnc.c
+  LzmaLib.c
+  MtCoder.c
+  MtDec.c
+  Ppmd7.c
+  Ppmd7Dec.c
+  Ppmd7Enc.c
+  Ppmd8.c
+  Ppmd8Dec.c
+  Generating Code...
+  Compiling...
+  Ppmd8Enc.c
+  Sha1.c
+  Sha256.c
+  Sort.c
+  Threads.c
+  Xz.c
+  XzCrc64.c
+  XzCrc64Opt.c
+  XzDec.c
+  XzEnc.c
+  XzIn.c
+  Generating Code...
+Debug\StdAfx.obj : warning LNK4042: object specified more than once; extras ignored
+msvcrt.lib(invarg.obj) : warning LNK4006: __invalid_parameter already defined in msvcrt.lib(msvcrt.dll); second definition ignored
+msvcrt.lib(wcrtexew.obj) : warning LNK4006: __initterm_e already defined in msvcrt.lib(msvcrt.dll); second definition ignored
+msvcrt.lib(wcrtexe.obj) : warning LNK4006: __initterm_e already defined in msvcrt.lib(msvcrt.dll); second definition ignored
+msvcrt.lib(crtexew.obj) : warning LNK4006: __initterm_e already defined in msvcrt.lib(msvcrt.dll); second definition ignored
+msvcrt.lib(crtexe.obj) : warning LNK4006: __initterm_e already defined in msvcrt.lib(msvcrt.dll); second definition ignored
+msvcrt.lib(crtdll.obj) : warning LNK4006: ___CppXcptFilter already defined in msvcrt.lib(msvcrt.dll); second definition ignored
+msvcrt.lib(crtdll.obj) : warning LNK4006: __initterm_e already defined in msvcrt.lib(msvcrt.dll); second definition ignored
+7zCrcOpt.obj : warning LNK4006: @CrcUpdateT4@16 already defined in 7zCrcOpt.obj; second definition ignored
+7zCrcOpt.obj : warning LNK4006: @CrcUpdateT8@16 already defined in 7zCrcOpt.obj; second definition ignored
+  lib7z.vcxproj -> C:\personal\BASS_ZIPSTREAM\lib\x86\lib7z.lib

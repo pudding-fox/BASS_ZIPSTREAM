@@ -1,0 +1,42 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1118,5): warning MSB8027: Two or more files with the name of StdAfx.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\7z\CPP\7zip\Archive\7z\StdAfx.cpp, ..\7z\CPP\7zip\Archive\Rar\StdAfx.cpp.
+cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+cl : command line  warning D9002: ignoring unknown option '/arch:SSE'
+  7zDecode.cpp
+  TarHeader.cpp
+  TarIn.cpp
+  Lzma2Register.cpp
+  LzmaRegister.cpp
+  FileFind.cpp
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Windows\FileFind.cpp(95,13): error C2084: function 'void NWindows::NFile::NFind::Convert_WIN32_FIND_DATA_to_FileInfo(const WIN32_FIND_DATAW &,NWindows::NFile::NFind::CFileInfo &)' already has a body
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Windows\FileFind.cpp(84): message : see previous definition of 'Convert_WIN32_FIND_DATA_to_FileInfo'
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Windows\FileFind.cpp(98,32): error C2665: 'fas2fs': none of the 2 overloads could convert all the argument types
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Common\MyString.h(838,11): message : could be 'FString fas2fs(const AString &)'
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Common\MyString.h(837,11): message : or       'FString fas2fs(const char *)'
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Windows\FileFind.cpp(98,13): message : 'FString fas2fs(const char *)': cannot convert argument 1 from 'const WCHAR [260]' to 'const char *'
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Windows\FileFind.cpp(98,22): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Common\MyString.h(837,11): message : see declaration of 'fas2fs'
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Windows\FileFind.cpp(98,32): message : while trying to match the argument list '(const WCHAR [260])'
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Windows\FileFind.cpp(160,5): error C2065: 'Convert_WIN32_FIND_DATA_to_FileInfo': undeclared identifier
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Windows\FileFind.cpp(179,5): error C2065: 'Convert_WIN32_FIND_DATA_to_FileInfo': undeclared identifier
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Windows\FileFind.cpp(192,5): error C2065: 'Convert_WIN32_FIND_DATA_to_FileInfo': undeclared identifier
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Windows\FileFind.cpp(200,5): error C2065: 'Convert_WIN32_FIND_DATA_to_FileInfo': undeclared identifier
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Windows\FileFind.cpp(374,44): error C2664: 'DWORD GetFileAttributesW(LPCWSTR)': cannot convert argument 1 from 'AString' to 'LPCWSTR'
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Windows\FileFind.cpp(374,38): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\fileapi.h(547,1): message : see declaration of 'GetFileAttributesW'
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Windows\FileFind.cpp(675,97): error C2664: 'HANDLE FindFirstChangeNotificationW(LPCWSTR,BOOL,DWORD)': cannot convert argument 1 from 'AString' to 'LPCWSTR'
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Windows\FileFind.cpp(675,51): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\fileapi.h(265,1): message : see declaration of 'FindFirstChangeNotificationW'
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Windows\FileFind.cpp(706,54): error C2664: 'DWORD GetLogicalDriveStringsW(DWORD,LPWSTR)': cannot convert argument 2 from 'CObjArray<char>' to 'LPWSTR'
+C:\personal\BASS_ZIPSTREAM\7z\CPP\Windows\FileFind.cpp(706,51): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\fileapi.h(740,1): message : see declaration of 'GetLogicalDriveStringsW'
+  FileLink.cpp
+  PropVariantConv.cpp
+  OffsetStream.cpp
+  OutBuffer.cpp
+  XzDecoder.cpp
+  XzEncoder.cpp
+  PropVariant.cpp
+  PropVariantUtils.cpp
+  TimeUtils.cpp
+  Generating Code...

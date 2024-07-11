@@ -1,0 +1,33 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+cl : command line  warning D9002: ignoring unknown option '/arch:SSE'
+  bass_zipstream.cpp
+  lib7z.lib(7zCrc.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library ../lib/x64\bass_zipstream.lib and object ../lib/x64\bass_zipstream.exp
+lib7z.lib(LoadCodecs.obj) : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+ArchiveInterface.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+ArchiveExtractTask.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+CFileStream.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+Codecs.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+Archive.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+ArchiveEntryInterface.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+ArchiveExtractCallback.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+ArchiveExtractPrompt.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+CFileStream.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+Codecs.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+lib7z.lib(MyString.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+ArchiveExtractPrompt.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+ArchiveInterface.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+bass_zipstream.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+ArchiveExtractTask.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+Archive.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+ArchiveEntry.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+ArchiveEntryInterface.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+ArchiveExtractCallback.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+bass_zipstream.obj : error LNK2001: unresolved external symbol CxxFrameHandler
+lib7z.lib(MyString.obj) : error LNK2001: unresolved external symbol __std_terminate
+lib7z.lib(Bcj2Coder.obj) : error LNK2001: unresolved external symbol "void __cdecl `eh vector destructor iterator'(void *,unsigned __int64,unsigned __int64,void (__cdecl*)(void *))" (??_M@YAXPEAX_K1P6AX0@Z@Z)
+lib7z.lib(Bcj2Coder.obj) : error LNK2001: unresolved external symbol "void __cdecl `eh vector constructor iterator'(void *,unsigned __int64,unsigned __int64,void (__cdecl*)(void *),void (__cdecl*)(void *))" (??_L@YAXPEAX_K1P6AX0@Z2@Z)
+lib7z.lib(MethodProps.obj) : error LNK2001: unresolved external symbol "void __cdecl operator delete[](void *,unsigned __int64)" (??_V@YAXPEAX_K@Z)
+..\lib\x64\bass_zipstream.dll : fatal error LNK1120: 7 unresolved externals

@@ -1,0 +1,209 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Assembling ..\7z\Asm\x86\7zAsm.asm...
+  Assembling ..\7z\Asm\x86\7zCrcOpt.asm...
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1118,5): warning MSB8027: Two or more files with the name of StdAfx.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\7z\CPP\7zip\Archive\7z\StdAfx.cpp, ..\7z\CPP\7zip\Archive\Rar\StdAfx.cpp.
+cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+cl : command line  warning D9002: ignoring unknown option '/arch:SSE'
+  7zDecode.cpp
+  7zExtract.cpp
+  7zFolderInStream.cpp
+  7zHandler.cpp
+  7zHeader.cpp
+  7zIn.cpp
+  7zProperties.cpp
+  7zSpecStream.cpp
+  StdAfx.cpp
+  CoderMixer2.cpp
+  FindSignature.cpp
+  HandlerCont.cpp
+  IsoHandler.cpp
+  IsoHeader.cpp
+  IsoIn.cpp
+  Rar5Handler.cpp
+  RarHandler.cpp
+  StdAfx.cpp
+  TarHandler.cpp
+  TarHeader.cpp
+  Compiling...
+  TarIn.cpp
+  FilePathAutoRename.cpp
+  InOutTempBuffer.cpp
+  StreamBinder.cpp
+  VirtThread.cpp
+  Bcj2Coder.cpp
+  Bcj2Register.cpp
+  BcjCoder.cpp
+  BcjRegister.cpp
+  BranchRegister.cpp
+  BZip2Crc.cpp
+  BZip2Decoder.cpp
+  BZip2Encoder.cpp
+  BZip2Register.cpp
+  CopyRegister.cpp
+  Deflate64Register.cpp
+  DeflateDecoder.cpp
+  DeflateEncoder.cpp
+  DeflateRegister.cpp
+  Lzma2Register.cpp
+  Compiling...
+  LzmaRegister.cpp
+  PpmdRegister.cpp
+  Rar1Decoder.cpp
+  Rar2Decoder.cpp
+  Rar3Decoder.cpp
+  Rar3Vm.cpp
+  Rar5Decoder.cpp
+  RarCodecsRegister.cpp
+  Rar20Crypto.cpp
+  Rar5Aes.cpp
+  RarAes.cpp
+  DefaultName.cpp
+  ExtractingFilePath.cpp
+  OpenArchive.cpp
+  PropIDUtils.cpp
+  SetProperties.cpp
+  Wildcard.cpp
+  ErrorMsg.cpp
+  FileDir.cpp
+  FileFind.cpp
+  Compiling...
+  FileLink.cpp
+  FileName.cpp
+  PropVariantConv.cpp
+  HandlerOut.cpp
+  InStreamWithCRC.cpp
+  ItemNameUtils.cpp
+  OutStreamWithCRC.cpp
+  ZipHandler.cpp
+  ZipIn.cpp
+  ZipItem.cpp
+  CreateCoder.cpp
+  CWrappers.cpp
+  FileStreams.cpp
+  FilterCoder.cpp
+  InBuffer.cpp
+  LimitedStreams.cpp
+  LockedStream.cpp
+  MemBlocks.cpp
+  MethodProps.cpp
+  OffsetStream.cpp
+  Compiling...
+  OutBuffer.cpp
+  OutMemStream.cpp
+  ProgressMt.cpp
+  ProgressUtils.cpp
+  PropId.cpp
+  StreamObjects.cpp
+  StreamUtils.cpp
+  BitlDecoder.cpp
+  CopyCoder.cpp
+  ImplodeDecoder.cpp
+  Lzma2Decoder.cpp
+  Lzma2Encoder.cpp
+  LzmaDecoder.cpp
+  LzmaEncoder.cpp
+  LzOutWindow.cpp
+  PpmdDecoder.cpp
+  PpmdEncoder.cpp
+  PpmdZip.cpp
+  ShrinkDecoder.cpp
+  XzDecoder.cpp
+  Compiling...
+  XzEncoder.cpp
+  HmacSha1.cpp
+  HmacSha256.cpp
+  MyAes.cpp
+  Pbkdf2HmacSha1.cpp
+  RandGen.cpp
+  WzAes.cpp
+  ZipCrypto.cpp
+  ZipStrong.cpp
+  LoadCodecs.cpp
+  IntToString.cpp
+  MyString.cpp
+  MyVector.cpp
+  MyWindows.cpp
+  StringConvert.cpp
+  StringToInt.cpp
+  UTFConvert.cpp
+  FileIO.cpp
+  PropVariant.cpp
+  PropVariantUtils.cpp
+  Compiling...
+  Synchronization.cpp
+  System.cpp
+  TimeUtils.cpp
+cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+cl : command line  warning D9002: ignoring unknown option '/arch:SSE'
+  7zAlloc.c
+  7zArcIn.c
+  7zBuf.c
+  7zBuf2.c
+  7zCrc.c
+  7zCrcOpt.c
+  7zDec.c
+  7zFile.c
+  7zStream.c
+  Aes.c
+  AesOpt.c
+  Alloc.c
+  Bcj2.c
+  Bcj2Enc.c
+  Blake2s.c
+  Bra.c
+  Bra86.c
+  BraIA64.c
+  BwtSort.c
+  CpuArch.c
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(61,26): warning C4083: expected ')'; found identifier '_VCRUNTIME_DISABLED_WARNINGS'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(111,1): warning C4005: '_CRT_STRINGIZE': macro redefinition
+C:\personal\BASS_ZIPSTREAM\crt\crtdefs.h(71): message : see previous definition of '_CRT_STRINGIZE'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(114,1): warning C4005: '_CRT_WIDE': macro redefinition
+C:\personal\BASS_ZIPSTREAM\crt\crtdefs.h(74): message : see previous definition of '_CRT_WIDE'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(155,1): warning C4005: '__CRTDECL': macro redefinition
+C:\personal\BASS_ZIPSTREAM\crt\crtdefs.h(571): message : see previous definition of '__CRTDECL'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\intrin.h(23,26): warning C4083: expected ')'; found identifier '_VCRUNTIME_DISABLED_WARNINGS'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\intrin0.inl.h(21,26): warning C4083: expected ')'; found identifier '_VCRUNTIME_DISABLED_WARNINGS'
+  Compiling...
+  Delta.c
+  DllSecur.c
+  HuffEnc.c
+  LzFind.c
+  LzFindMt.c
+  Lzma2Dec.c
+  Lzma2DecMt.c
+  Lzma2Enc.c
+  Lzma86Dec.c
+  Lzma86Enc.c
+  LzmaDec.c
+  LzmaEnc.c
+  LzmaLib.c
+  MtCoder.c
+  MtDec.c
+  Ppmd7.c
+  Ppmd7Dec.c
+  Ppmd7Enc.c
+  Ppmd8.c
+  Ppmd8Dec.c
+  Compiling...
+  Ppmd8Enc.c
+  Sha1.c
+  Sha256.c
+  Sort.c
+  Threads.c
+  Xz.c
+  XzCrc64.c
+  XzCrc64Opt.c
+  XzDec.c
+  XzEnc.c
+  XzIn.c
+x64\Release\StdAfx.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Release\7zCrcOpt.obj : warning LNK4042: object specified more than once; extras ignored
+msvcrt.lib(invarg.obj) : warning LNK4006: _invalid_parameter already defined in msvcrt.lib(msvcrt.dll); second definition ignored
+msvcrt.lib(wcrtexew.obj) : warning LNK4006: _initterm_e already defined in msvcrt.lib(msvcrt.dll); second definition ignored
+msvcrt.lib(wcrtexe.obj) : warning LNK4006: _initterm_e already defined in msvcrt.lib(msvcrt.dll); second definition ignored
+msvcrt.lib(crtexew.obj) : warning LNK4006: _initterm_e already defined in msvcrt.lib(msvcrt.dll); second definition ignored
+msvcrt.lib(crtexe.obj) : warning LNK4006: _initterm_e already defined in msvcrt.lib(msvcrt.dll); second definition ignored
+msvcrt.lib(crtdll.obj) : warning LNK4006: __CppXcptFilter already defined in msvcrt.lib(msvcrt.dll); second definition ignored
+msvcrt.lib(crtdll.obj) : warning LNK4006: _initterm_e already defined in msvcrt.lib(msvcrt.dll); second definition ignored
+  lib7z.vcxproj -> C:\personal\BASS_ZIPSTREAM\lib\x64\lib7z.lib

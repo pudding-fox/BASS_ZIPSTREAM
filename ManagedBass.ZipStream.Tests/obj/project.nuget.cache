@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F23mmBPiXQvEScekubuswjPouXVTD00+5c5IWcQaDIhZDVRWdeRPs6gpikgOTafiRH0uJ8i2QkCjbQunbRSyFw==",
+  "success": true,
+  "projectFilePath": "C:\\personal\\BASS_ZIPSTREAM\\ManagedBass.ZipStream.Tests\\ManagedBass.ZipStream.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AidanG\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\AidanG\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\AidanG\\.nuget\\packages\\managedbass.zipstream\\0.2.2\\managedbass.zipstream.0.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,26 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+cl : command line  warning D9002: ignoring unknown option '/arch:SSE'
+  CRC.cpp
+  Archive.cpp
+C:\personal\BASS_ZIPSTREAM\bass_zipstream\Archive.cpp(144,3): warning C4838: conversion from 'int' to 'const UInt32' requires a narrowing conversion
+  ArchiveEntry.cpp
+  ArchiveEntryInterface.cpp
+  ArchiveExtractCallback.cpp
+  ArchiveExtractPrompt.cpp
+  ArchiveInterface.cpp
+  bass_zipstream.cpp
+  ArchiveExtractTask.cpp
+  CFile.cpp
+  CFileStream.cpp
+  Codecs.cpp
+  Config.cpp
+  ErrorInterface.cpp
+     Creating library ../lib/x64\bass_zipstream.lib and object ../lib/x64\bass_zipstream.exp
+Archive.obj : error LNK2001: unresolved external symbol __CxxFrameHandler4
+Archive.obj : error LNK2001: unresolved external symbol "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+Archive.obj : error LNK2001: unresolved external symbol __std_terminate
+lib7z.lib(Bcj2Coder.obj) : error LNK2001: unresolved external symbol "void __cdecl `eh vector destructor iterator'(void *,unsigned __int64,unsigned __int64,void (__cdecl*)(void *))" (??_M@YAXPEAX_K1P6AX0@Z@Z)
+lib7z.lib(Bcj2Coder.obj) : error LNK2001: unresolved external symbol "void __cdecl `eh vector constructor iterator'(void *,unsigned __int64,unsigned __int64,void (__cdecl*)(void *),void (__cdecl*)(void *))" (??_L@YAXPEAX_K1P6AX0@Z2@Z)
+lib7z.lib(MethodProps.obj) : error LNK2001: unresolved external symbol "void __cdecl operator delete[](void *,unsigned __int64)" (??_V@YAXPEAX_K@Z)
+..\lib\x64\bass_zipstream.dll : fatal error LNK1120: 6 unresolved externals

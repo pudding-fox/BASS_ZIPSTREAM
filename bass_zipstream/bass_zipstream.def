@@ -1,0 +1,29 @@
+LIBRARY bass_zipstream
+VERSION 2.4
+EXPORTS
+BASSplugin
+BASS_ZIPSTREAM_SetConfig
+BASS_ZIPSTREAM_GetConfig
+BASS_ZIPSTREAM_StreamCreateFile
+ARCHIVE_Create
+ARCHIVE_GetFormatCount
+ARCHIVE_GetFormat
+ARCHIVE_Open
+ARCHIVE_GetEntryCount
+ARCHIVE_GetEntry
+ARCHIVE_Close
+ARCHIVE_Release
+ARCHIVE_Cleanup
+ARCHIVE_GetPassword
+ARCHIVE_OpenEntry
+ARCHIVE_GetEntryPosition
+ARCHIVE_GetEntryLength
+ARCHIVE_GetEntryAvailable
+ARCHIVE_GetEntryResult
+ARCHIVE_BufferEntry
+ARCHIVE_ReadEntry
+ARCHIVE_SeekEntry
+ARCHIVE_IsEOF
+ARCHIVE_CloseEntry
+ARCHIVE_GetLastError
+ARCHIVE_SetLastError
